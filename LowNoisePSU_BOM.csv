@@ -1,0 +1,18 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"+";"PTR1PAD1-13";"PTR1PAD1-13";"P1-13";"TEST PIN";"";
+"-";"PTR1PAD1-13";"PTR1PAD1-13";"P1-13";"TEST PIN";"";
+"C1";"1000uF, 35V";"CPOL-EUE5-13";"E5-13";"POLARIZED CAPACITOR, European symbol";"";
+"C2";"100n";"C-EU050-024X044";"C050-024X044";"CAPACITOR, European symbol";"";
+"C3";"100n";"C-EU050-024X044";"C050-024X044";"CAPACITOR, European symbol";"";
+"CTR";"PTR1PAD1-13";"PTR1PAD1-13";"P1-13";"TEST PIN";"";
+"D1";"1N4004";"1N4004";"DO41-10";"DIODE";"";
+"H1";"MOUNT-HOLE3.2";"MOUNT-HOLE3.2";"3,2";"MOUNTING HOLE with drill center marker";"";
+"H2";"MOUNT-HOLE3.2";"MOUNT-HOLE3.2";"3,2";"MOUNTING HOLE with drill center marker";"";
+"IC1";"7805T";"7805T";"TO220H";"Positive VOLTAGE REGULATOR";"";
+"J1";"";"DCJ0303";"DCJ0303";"DC POWER JACK";"";
+"LED1";"";"LED5MM";"LED5MM";"LED";"";
+"OUTER";"PTR1PAD1-13";"PTR1PAD1-13";"P1-13";"TEST PIN";"";
+"R1";"10R";"R-EU_0309/12";"0309/12";"RESISTOR, European symbol";"";
+"R2";"511";"R-EU_0309/12";"0309/12";"RESISTOR, European symbol";"";
+"R3";"1k";"R-EU_0309/12";"0309/12";"RESISTOR, European symbol";"";
+"X1";"1-227161-0";"1-227161-0";"AMP_227161";"JACK,  RIGHT ANGLE, 50 OHM, PCB, BNC";"";
