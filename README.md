@@ -9,12 +9,12 @@ Content:
    - First Stage	2
    - Second Stage	3
 3. Power Supply Settings	4
-  - PS1	4
-  - PS2	4
+   - PS1	4
+   - PS2	4
 4. Bias Settings	5
 5. Grounding	5
-  - Ohne Charge Pump (SP2):	5
-  - Mit Charge Pump:	6
+   - Ohne Charge Pump (SP2):	5
+   - Mit Charge Pump:	6
 6. Ein- und Ausgänge: Ratings	6
 Eingänge / Ausgänge von links nach rechts:	6
 Ratings:	6
@@ -33,3 +33,7 @@ Above is the simple image, below the aligned version
   Fig. 1, Inputs and Outputs on PCB
 </p>
 
+test: Latex formel syntax inline $\frac{A}{B\cdot \pi}$ and in display mode: 
+```math
+x = \frac{R}{C \cdot \pi}
+```
