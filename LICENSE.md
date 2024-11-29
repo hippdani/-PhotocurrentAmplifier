@@ -1,3 +1,6 @@
+The TU Graz Logo is intellectual property of the TU Graz and/or its organisations.
+everything else in this repository is licensed under:
+
 CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
 
