@@ -1,11 +1,15 @@
--Create gerber files .zip for PCSopose and add to the Manufacture folder.
+- Create gerber files .zip for PCSopose and add to the Manufacture folder.
 
--Upload Quick Guide and Docu pdf
+- translate last chapters of PCSA docu, fix links and recompile to pdf
 
--Translate LN_PSU Docu pdf
+- Add Old Version PCS files
 
--Add MS Word sources
+- Add XUV Photodiode Amplifier docu
 
--Add Old Verson files
+- Add LTspice simulation files necessary for calculations described in the PCSA docu
 
--Add XUV Photodiode Amplifier docu
+- add reference to bachelor thesis
+
+- Remaster root readme.md and add links
+
+- Do last: update links in all .docx / pdf
