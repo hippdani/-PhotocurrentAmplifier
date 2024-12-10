@@ -5,5 +5,5 @@ for the photocurrent sampling amplifier. The .zip folder contains everything nee
 It is intended to connect to a cheap switch 
 mode power supply using a barrel jack connector. Such power supplies are readily available but present a lot of 
 switching noise on their output. This ciruit is very effective at attenuating the differential mode noise, 
-however common mode noise is not adressed.
+however common mode noise is not addressed.
 

@@ -3,3 +3,9 @@
 -Upload Quick Guide and Docu pdf
 
 -Translate LN_PSU Docu pdf
+
+-Add MS Word sources
+
+-Add Old Verson files
+
+-Add XUV Photodiode Amplifier docu
